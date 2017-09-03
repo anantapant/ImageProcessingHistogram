@@ -1,0 +1,9 @@
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\obj\Debug\Histogram Equilazation.exe
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\obj\Debug\Histogram Equilazation.pdb
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\bin\Debug\Histogram Equilazation.exe
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\bin\Debug\Histogram Equilazation.pdb
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\obj\Debug\Histogram Equilazation.csprojResolveAssemblyReference.cache
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\obj\Debug\Histogram_Equilization.Form1.resources
+C:\Users\Ananta\Desktop\HistogramEquailzation\Histogram Equailzation\Histogram Equilazation\obj\Debug\Histogram Equilazation.csproj.GenerateResource.Cache
+D:\Ananta\Histogram Equailzation Lab\Histogram Equailzation Lab\Histogram Equilazation\obj\Debug\Histogram Equilazation.exe
+D:\Ananta\Histogram Equailzation Lab\Histogram Equailzation Lab\Histogram Equilazation\obj\Debug\Histogram Equilazation.pdb
